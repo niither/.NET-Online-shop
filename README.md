@@ -107,7 +107,7 @@ Copyright (c) 2025 Павлюк Данило
 
 ### Навчальні матеріали:
 
-- [Microsoft Learn - C# Tutorial](https://od.itstep.org/)
+- [IT Step Academy](https://od.itstep.org/)
 
 ### Інструменти розробки:
 
