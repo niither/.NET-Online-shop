@@ -1,7 +1,7 @@
 # Online Shop - Фінальний проект з C#
 
 ![C# Project Banner](https://images.pexels.com/photos/31839602/pexels-photo-31839602.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
-Автор проекту ледачий (портрет зверху)
+Автор проекту ледачий (портрет зліва)
 
 ## Опис проекту
 
